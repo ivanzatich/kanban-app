@@ -1,2 +1,3 @@
 # kanban-app
-pet project
+java pet project.
+The purpose of this project is creating very simple web-app inspired by Trello  
